@@ -22,6 +22,10 @@ Learning curves of all the CNN architectures.
 <img src="./Selection_002.png" alt="drawing" width="350"/>
 </p>
 
+## Usage
+`KB_MDP_RS18_FF_LReLU` is the CNN architecture used in the paper.
+`KB_MDP_RS50_FF_LReLU` is the ResNet50 version of the proposed architecture.
+
 
 ## Citation
 
